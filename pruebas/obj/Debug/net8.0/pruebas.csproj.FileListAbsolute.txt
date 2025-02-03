@@ -1,0 +1,15 @@
+/home/adriandev/programming/csharp_pruebas/pruebas/bin/Debug/net8.0/pruebas
+/home/adriandev/programming/csharp_pruebas/pruebas/bin/Debug/net8.0/pruebas.deps.json
+/home/adriandev/programming/csharp_pruebas/pruebas/bin/Debug/net8.0/pruebas.runtimeconfig.json
+/home/adriandev/programming/csharp_pruebas/pruebas/bin/Debug/net8.0/pruebas.dll
+/home/adriandev/programming/csharp_pruebas/pruebas/bin/Debug/net8.0/pruebas.pdb
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.AssemblyInfoInputs.cache
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.AssemblyInfo.cs
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.csproj.CoreCompileInputs.cache
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.sourcelink.json
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.dll
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/refint/pruebas.dll
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.pdb
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/pruebas.genruntimeconfig.cache
+/home/adriandev/programming/csharp_pruebas/pruebas/obj/Debug/net8.0/ref/pruebas.dll
